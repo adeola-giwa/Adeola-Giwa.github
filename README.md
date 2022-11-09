@@ -1,1 +1,1 @@
-# Adeola-Giwa.github
+# project name: BellaBeat.github
